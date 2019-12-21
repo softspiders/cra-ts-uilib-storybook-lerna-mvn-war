@@ -16,7 +16,7 @@
     "start": "lerna run start --stream",
     "build:lib": "lerna run libbuild --stream",
     "build:app": "npm run install && npm run build:lib && cd ./packages/cra-app && npm run build",
-    "build-war": "npm run build:app && cd ./packages/cra-app && mvn package",
+    "build:war": "npm run build:app && cd ./packages/cra-app && mvn package",
     "clean": "lerna clean"
   }
 }

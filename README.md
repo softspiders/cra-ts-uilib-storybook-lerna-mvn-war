@@ -37,13 +37,13 @@ npm run start
 ## Build application
 
 ```sh
-npm run build-app
+npm run build:app
 ```
 
 ## Build war
 
 ```sh
-npm run build-war
+npm run build:war
 ```
 
 ## Authors
