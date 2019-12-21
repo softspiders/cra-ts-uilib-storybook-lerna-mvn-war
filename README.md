@@ -1,11 +1,11 @@
-# cra-typescript-uilib-storybook-lerna-mvn-war
+# cra-ts-uilib-storybook-lerna-mvn-war
 
 Minimalistic React app in TypeScript based on UI lib with Storybook and building war by Maven.
 And all of this in Lerna monorepo.
 
 ## Direct feature ancestors
 
-[typescript](https://github.com/softspider/typescript)
+[cra-typescript-uilib-storybook-lerna](https://github.com/softspider/cra-typescript-uilib-storybook-lerna)
 
 ## Requirements
 
@@ -13,6 +13,8 @@ And all of this in Lerna monorepo.
 * [*create-react-app*](https://facebook.github.io/create-react-app/)
 * [*TypeScript*](https://www.typescriptlang.org/)
 * [*Lerna*](https://lerna.js.org/)
+* [*JDK*](https://java.com/ru/download/) >= 1.5
+* [*Maven*](https://maven.apache.org/)
 
 ## Installation
 
@@ -38,14 +40,15 @@ npm run start
 npm run build-app
 ```
 
+## Build war
+
+```sh
+npm run build-war
+```
+
 ## Authors
 
-[shnyder](https://dev.to/shnydercom) - original author
-[Alexander Lapygin](https://github.com/AlexanderLapygin) - adaptation to Soft Spiders
-
-## Inspired by
-
-[shnyder: Monorepos: Lerna, TypeScript, CRA and Storybook combined](https://dev.to/shnydercom/monorepos-lerna-typescript-cra-and-storybook-combined-4hli)
+[Alexander Lapygin](https://github.com/AlexanderLapygin)
 
 ### License
 
