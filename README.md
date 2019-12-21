@@ -1,6 +1,6 @@
-# cra-typescript-uilib-storybook-lerna
+# cra-typescript-uilib-storybook-lerna-mvn-war
 
-Minimalistic React app in TypeScript based on UI lib with Storybook.
+Minimalistic React app in TypeScript based on UI lib with Storybook and building war by Maven.
 And all of this in Lerna monorepo.
 
 ## Direct feature ancestors
