@@ -8,10 +8,12 @@ And all of this in Lerna monorepo.
 - build
 - create-react-app
 - lerna
+- lib
 - maven
 - react
 - storybook
 - typescript
+- ui
 - war
 
 ## Direct feature ancestors
