@@ -3,6 +3,17 @@
 Minimalistic React app in TypeScript based on UI lib with Storybook and building war by Maven.
 And all of this in Lerna monorepo.
 
+## Feature tags
+
+- build
+- create-react-app
+- lerna
+- maven
+- react
+- storybook
+- typescript
+- war
+
 ## Direct feature ancestors
 
 - [*cra-ts-uilib-storybook-lerna*](https://github.com/softspider/cra-ts-uilib-storybook-lerna)
