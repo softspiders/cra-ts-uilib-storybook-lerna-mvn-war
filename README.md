@@ -1,7 +1,5 @@
 # cra-ts-uilib-storybook-lerna-mvn-war
 
-UNDER CONSTRUCTION
-
 Minimalistic React app in TypeScript based on UI lib with Storybook and building war by Maven.
 And all of this in Lerna monorepo.
 
