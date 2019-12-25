@@ -5,12 +5,12 @@ And all of this in Lerna monorepo.
 
 ## Direct feature ancestors
 
-- [*cra-typescript-uilib-storybook-lerna*](https://github.com/softspider/cra-typescript-uilib-storybook-lerna)
+- [*cra-ts-uilib-storybook-lerna*](https://github.com/softspider/cra-ts-uilib-storybook-lerna)
 - [*cra-ts-maven-war*](https://github.com/softspider/cra-ts-maven-war)
 
 ## Direct code ancestors
 
-[*cra-typescript-uilib-storybook-lerna*](https://github.com/softspider/cra-typescript-uilib-storybook-lerna)
+[*cra-ts-uilib-storybook-lerna*](https://github.com/softspider/cra-ts-uilib-storybook-lerna)
 
 ## Requirements
 
