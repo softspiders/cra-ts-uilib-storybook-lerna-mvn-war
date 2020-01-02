@@ -20,6 +20,7 @@ And all of this in Lerna monorepo.
 
 - [*cra-ts-uilib-storybook-lerna*](https://github.com/softspider/cra-ts-uilib-storybook-lerna)
 - [*cra-ts-maven-war*](https://github.com/softspider/cra-ts-maven-war)
+- [lerna](https://github.com/softspider/lerna-hw)
 
 ## Direct code ancestors
 
