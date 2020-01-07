@@ -14,6 +14,7 @@ and building war by [*Maven*](https://maven.apache.org/)
 - maven
 - react
 - storybook
+- template
 - typescript
 - ui
 - war
