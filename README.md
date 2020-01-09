@@ -1,9 +1,12 @@
+SOFTSPIDERS
+
 # cra-ts-uilib-storybook-lerna-mvn-war
 
 Minimalistic template for [*React*](https://ru.reactjs.org/) application in [*TypeScript*](https://www.typescriptlang.org/)
 based on UI Library with [*Storybook*](https://storybook.js.org/) in [*Lerna*](https://lerna.js.org/) monorepo
 and building war by [*Maven*](https://maven.apache.org/)
 
+---
 
 ## Feature tags
 
@@ -19,15 +22,15 @@ and building war by [*Maven*](https://maven.apache.org/)
 - ui
 - war
 
-## Direct feature ancestors
+---
 
-- [*cra-ts-uilib-storybook-lerna*](https://github.com/softspider/cra-ts-uilib-storybook-lerna)
+## Direct ancestors
+
+- [*cra-ts-uilib-storybook-lerna*](https://github.com/softspider/cra-ts-uilib-storybook-lerna) - also by code
 - [*cra-ts-maven-war*](https://github.com/softspider/cra-ts-maven-war)
 - [lerna](https://github.com/softspider/lerna)
 
-## Direct code ancestors
-
-[*cra-ts-uilib-storybook-lerna*](https://github.com/softspider/cra-ts-uilib-storybook-lerna)
+---
 
 ## Requirements
 
@@ -38,11 +41,15 @@ and building war by [*Maven*](https://maven.apache.org/)
 * [*JDK*](https://java.com/ru/download/) >= 1.5
 * [*Maven*](https://maven.apache.org/)
 
+---
+
 ## Installation
 
 ```sh
 npm run bootstrap
 ```
+
+---
 
 ## Running Storybook
 
@@ -68,7 +75,11 @@ npm run build:app
 npm run build:war
 ```
 
+---
+
 ## Authors
+
+---
 
 [Alexander Lapygin](https://github.com/AlexanderLapygin)
 
