@@ -1,4 +1,4 @@
-SOFTSPIDERS
+[SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
 # cra-ts-uilib-storybook-lerna-mvn-war
 
@@ -15,7 +15,7 @@ and building war by [*Maven*](https://maven.apache.org/)
 - lerna
 - lib
 - maven
-- react
+- starter
 - storybook
 - template
 - typescript
