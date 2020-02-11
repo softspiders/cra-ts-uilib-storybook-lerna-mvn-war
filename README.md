@@ -27,7 +27,7 @@ and building war by [*Maven*](https://maven.apache.org/)
 ## Direct ancestors
 
 - [*cra-ts-uilib-storybook-lerna*](https://github.com/softspiders/cra-ts-uilib-storybook-lerna) - also by code
-- [*cra-ts-maven-war*](https://github.com/softspiders/cra-ts-maven-war)
+- [*cra-ts-maven-war-starter*](https://github.com/softspiders/cra-ts-maven-war-starter)
 - [lerna](https://github.com/softspiders/lerna)
 
 ---
